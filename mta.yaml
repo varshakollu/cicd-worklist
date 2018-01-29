@@ -8,7 +8,7 @@ parameters:
 modules:
   - name: "ZWorklistAutomation"
     type: html5
-    path: 
+    path: path
     parameters:
        version: 1.0.0
     build-parameters:
